@@ -1,3 +1,5 @@
+/* it IS loud be careful */
+
 var ilist = document.images;
 
 ilist.forEach(change);
