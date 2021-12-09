@@ -1,4 +1,10 @@
-/* it IS loud be careful */
+/*
+
+it IS loud be careful 
+
+the volume is based on how many images are on the website
+
+*/
 
 var ilist = document.images;
 
